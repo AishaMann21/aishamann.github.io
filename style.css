@@ -1,0 +1,42 @@
+body{
+    font-family: PT Mono;
+    font-weight: bold;
+    background-color: DCBD96;
+    color: black;
+}
+
+.row{   
+    display:flex;
+    justify-content: space-around;
+    background-color:black;
+    color:white;
+    font-size:20px;
+    padding: 30px;
+}
+
+.mid{
+    background-color:black;
+    color:white;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+    padding: inherit;
+  
+}
+.aboutme{
+    border:1px solid black;   
+}
+img{
+    max-width:100%;
+}
+a {
+    color:white;
+}
+
+#black{
+    color:red;
+}
+.contact{
+    padding: 20px;
+}
